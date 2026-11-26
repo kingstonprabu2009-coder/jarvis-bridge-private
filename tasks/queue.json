@@ -1,5 +1,5 @@
 {
-  "task_id": "",
-  "action": "none",
-  "instruction": ""
+  "task_id": "test001",
+  "action": "git_status",
+  "instruction": "Test bridge connection"
 }
