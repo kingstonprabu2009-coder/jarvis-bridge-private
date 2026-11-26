@@ -1,5 +1,5 @@
 {
-  "task_id": "test002",
+  "task_id": "test003",
   "action": "git_status",
-  "instruction": "Test approved task"
+  "instruction": "Final bridge verification"
 }
